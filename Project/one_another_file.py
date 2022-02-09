@@ -1,3 +1,4 @@
+# We are creating an Excel sheet from another workbook
 import pandas as pd
 
 df = pd.read_excel("OfficeM&A_RootWords.xlsx")
